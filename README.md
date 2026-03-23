@@ -3,7 +3,7 @@ A systematic review of the differences between trial-eligible and trial-ineligib
 
 R code used for analysis
 
-Packages needed (some may have been used in legacy code, no longer present):
+Packages needed (some may have been used in legacy code, no longer present):  
 tidyverse  
 janitor  
 ggrepel  
